@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'q1_4',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> type(reasonable_test_statistics) == np.ndarray\nTrue', 'hidden': False, 'locked': False},
