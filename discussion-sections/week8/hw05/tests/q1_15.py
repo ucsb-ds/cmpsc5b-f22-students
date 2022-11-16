@@ -1,0 +1,9 @@
+OK_FORMAT = True
+
+test = {   'name': 'q1_15',
+    'points': None,
+    'suites': [   {   'cases': [{'code': '>>> all([type(career_length_residual_corr) == int, type(salary_residual_corr) == int])\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
